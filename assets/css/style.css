@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/stardust.png");
+}
+
+.navbar {
+    background-image: url("../images/carbonfiber.png");
+}
+
+h3,h4,p,li,label,address {
+    color: #E6E6E6;
+}
+
+.bottom-info {
+    padding: 0px 15px 10px 15px;
+    border: 1px solid #E6E6E6;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.carousel {
+    max-width: 1600px;
+    margin-top: 100px;
+}
+.carousel-image {
+    border-radius: 5px;
+}
+.nav-link {
+    color: black;
+}
